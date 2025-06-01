@@ -1,5 +1,5 @@
 # Heart-Disease-Prediction-Model
-This is simple and effective preddiction model of heart disease that takes the input from the user and based on it gives a prediction. This model uses Logistic Regression analysis for the preddiction and the output is in the form of the user giving input to the system and based on this , the system gives two outputs :
+This is simple and effective prediction model of heart disease that takes the input from the user and based on it gives a prediction. This model uses Logistic Regression analysis for the prediction and the output is in the form of the user giving input to the system and based on this , the system gives two outputs :
 1) You are healthy
 2) Consult a doctor
 
